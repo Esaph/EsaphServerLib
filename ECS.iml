@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="C:\yguard-2.7.1\lib\yguard.jar" />
+        <option name="inFile" value="C:\Users\EsaphJAuguscik\IdeaProjects\ECS\out\artifacts\ECS_jar\ECS.jar" />
+        <option name="outFile" value="C:\Users\EsaphJAuguscik\IdeaProjects\ECS\out\artifacts\ECS_jar\ECS_O.jar" />
+        <option name="mainclass" value="ESC" />
+        <option name="jarConfig">
+          <JarConfig>
+            <option name="jarEntries">
+              <list>
+                <option value="C:\Users\EsaphJAuguscik\IdeaProjects\ECS\out\production\ECS" />
+              </list>
+            </option>
+          </JarConfig>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-java-5.1" level="project" />
+    <orderEntry type="library" name="Json" level="project" />
+    <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-core:2.10.0" level="project" />
+    <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-databind:2.10.0" level="project" />
+    <orderEntry type="library" name="com.google.code.gson:gson:2.8.6" level="project" />
+  </component>
+</module>

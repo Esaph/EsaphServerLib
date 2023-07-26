@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ECS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ECS_jar</output-path>
+    <root id="archive" name="ECS.jar">
+      <element id="module-output" name="ECS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/Json/json-20190722.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
